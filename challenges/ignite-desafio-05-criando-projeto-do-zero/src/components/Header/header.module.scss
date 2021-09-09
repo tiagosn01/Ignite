@@ -1,0 +1,29 @@
+// TODO
+.header {
+  max-width: 700px;
+  margin: 0 auto;
+
+  height: 165px;
+  display: flex;
+
+}
+
+.headerContent {
+  margin-bottom: 1rem;
+  margin-top: 4.2rem;
+  margin-bottom: 4.2rem;
+  display: flex;
+  align-items: center;
+  font-size: 1.6rem;
+  h1 {
+    margin-left: 0.9rem;
+      color: #F8F8F8;
+      font-size: 1.6rem;
+  }
+
+  span {
+    font-weight: bold;
+    color: #FF57B2;
+  }
+
+}
